@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<User>
+  <BaseURL>http://localhost</BaseURL>
+  <Login>admin</Login>
+  <Password>secret</Password>
+</User>
